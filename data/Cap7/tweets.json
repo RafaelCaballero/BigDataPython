@@ -1,0 +1,4 @@
+{"user": {"name": "Pepe", "verified": true, "followers_count": 3}, "text": "#Tengosueño", "RT_count": 2}
+{"user": {"name": "Ana", "verified": false, "followers_count": 15}, "text": "#VivaElLunes", "RT_count": 45}
+{"user": {"name": "Eva", "verified": true, "followers_count": 2}, "text": "¡Gol de Señor!", "RT_count": 100}
+

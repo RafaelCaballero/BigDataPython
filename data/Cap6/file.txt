@@ -1,0 +1,8 @@
+En el anterior apartado hemos explicado que los RDDs son inmutables
+y que se crean mediante transformaciones de otros RDDs. Sin embargo,
+antes de poder comenzar la secuencia de transformaciones necesitamos
+un RDD (o varios) con los valores iniciales que queremos procesar.
+Estos RDDs se crearán a partir de valores en memoria del nodo driver,
+o a partir de ficheros accesibles desde el clúster. En ambos casos se
+creará un RDD y sus distintas particiones se distribuirán entre los
+diferentes procesos executor.

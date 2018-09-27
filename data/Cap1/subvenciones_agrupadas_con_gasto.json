@@ -1,0 +1,913 @@
+[
+    {
+        "Asociación": "AMPA ANTONIO MACHADO",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "TALLER FIESTA DE CARNAVAL",
+                "Importe": 94.56
+            },
+            {
+                "Actividad Subvencionada ": "TALLER DIA DEL PADRE",
+                "Importe": 39.04
+            },
+            {
+                "Actividad Subvencionada ": "TALLER DIA DE LA MADRE",
+                "Importe": 43.64
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA FIN DE CURSO",
+                "Importe": 921.0
+            },
+            {
+                "Actividad Subvencionada ": "CONCURSO LOGOTIPO AMPA",
+                "Importe": 56.57
+            },
+            {
+                "Actividad Subvencionada ": "ASOCIACION FAPA ALCOBENDAS",
+                "Importe": 80.0
+            },
+            {
+                "Actividad Subvencionada ": "ASOCIACION FAPA GINER DE LOS RIOS",
+                "Importe": 86.79
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA DE NAVIDAD",
+                "Importe": 660.0
+            },
+            {
+                "Actividad Subvencionada ": "HALLOWEEN",
+                "Importe": 168.39
+            },
+            {
+                "Actividad Subvencionada ": "SAN ISIDRO",
+                "Importe": 195.0
+            }
+        ],
+        "Gasto": 2344.99
+    },
+    {
+        "Asociación": "AMPA BACHILLER ALONSO LOPEZ",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "MATEMATICAS MANIPULATIVAS",
+                "Importe": 480.0
+            },
+            {
+                "Actividad Subvencionada ": "PROYECTO DE INGLES",
+                "Importe": 480.0
+            },
+            {
+                "Actividad Subvencionada ": "EXCURSIONES PRIMARIA",
+                "Importe": 928.0
+            },
+            {
+                "Actividad Subvencionada ": "GRADUACIÓN INFANTIL",
+                "Importe": 360.0
+            },
+            {
+                "Actividad Subvencionada ": "GRADUACIÓN 6 PRIM",
+                "Importe": 240.0
+            },
+            {
+                "Actividad Subvencionada ": "REVISTA COLEGIO ENTRETIZAS",
+                "Importe": 220.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA INTERCULTURAL",
+                "Importe": 492.0
+            }
+        ],
+        "Gasto": 3200.0
+    },
+    {
+        "Asociación": "AMPA CASTILLA",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "CONCURSO TARJETAS NAVIDEÑAS",
+                "Importe": 124.0
+            },
+            {
+                "Actividad Subvencionada ": "TALLER COMO MEJORAR LA AUTOESTIMA DE NUESTROS HIJOS",
+                "Importe": 160.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA FIN DE CURSO",
+                "Importe": 840.0
+            },
+            {
+                "Actividad Subvencionada ": "PROPUESTA DE ACTIV EXTRAESCOLARES, INSCRIPCIONES, INTERCAMBIO LIBROS",
+                "Importe": 150.0
+            },
+            {
+                "Actividad Subvencionada ": "FEDERACION",
+                "Importe": 64.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA REYES MAGOS",
+                "Importe": 460.0
+            },
+            {
+                "Actividad Subvencionada ": "CHOCOLATADA",
+                "Importe": 336.0
+            },
+            {
+                "Actividad Subvencionada ": "SAN ISIDRO",
+                "Importe": 163.0
+            },
+            {
+                "Actividad Subvencionada ": "HALLOWEEN",
+                "Importe": 160.0
+            },
+            {
+                "Actividad Subvencionada ": "CARNAVAL EN LA AULAS",
+                "Importe": 147.44
+            }
+        ],
+        "Gasto": 2604.44
+    },
+    {
+        "Asociación": "AMPA DAOIZ Y VELARDE",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "PLAN LECTOR",
+                "Importe": 370.0
+            },
+            {
+                "Actividad Subvencionada ": "CONCIERTO MUSICA DIVERTIDA",
+                "Importe": 575.74
+            },
+            {
+                "Actividad Subvencionada ": "TALLER HABILIDADES SOCIALES O TECNICAS DE ESTUDIO",
+                "Importe": 220.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA FIN DE CURSO",
+                "Importe": 600.0
+            },
+            {
+                "Actividad Subvencionada ": "GRADUACIONES INFANTIL Y SEXTO",
+                "Importe": 160.0
+            },
+            {
+                "Actividad Subvencionada ": "AGENDAS",
+                "Importe": 340.0
+            },
+            {
+                "Actividad Subvencionada ": "EXPOSICION FOTOGRAFICA",
+                "Importe": 198.0
+            },
+            {
+                "Actividad Subvencionada ": "NAVIDAD",
+                "Importe": 689.0
+            }
+        ],
+        "Gasto": 3152.74
+    },
+    {
+        "Asociación": "AMPA EMILIO CASADO",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "DIA DE LA MUSICA",
+                "Importe": 295.67
+            },
+            {
+                "Actividad Subvencionada ": "SALIDA CULTURAL AL TEATRO",
+                "Importe": 196.0
+            },
+            {
+                "Actividad Subvencionada ": "FESTIVAL FIN DE CURSO",
+                "Importe": 247.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA FIN DE CURSO",
+                "Importe": 1000.0
+            },
+            {
+                "Actividad Subvencionada ": "ASOCIACION FAPA GINER DE LOS RIOS",
+                "Importe": 175.0
+            },
+            {
+                "Actividad Subvencionada ": "ASOCIACION FAPA ALCOBENDAS",
+                "Importe": 77.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA NAVIDAD",
+                "Importe": 850.0
+            },
+            {
+                "Actividad Subvencionada ": "INTERCENTROS ATLETISMO",
+                "Importe": 175.0
+            }
+        ],
+        "Gasto": 3015.67
+    },
+    {
+        "Asociación": "AMPA FEDERICO GARCIA LORCA",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "DIA DEL LIBRO",
+                "Importe": 1400.0
+            },
+            {
+                "Actividad Subvencionada ": "TALLERES DE HALLOWEEN Y ADORNOS NAVIDAD",
+                "Importe": 85.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA FIN DE CURSO",
+                "Importe": 434.06
+            }
+        ],
+        "Gasto": 1919.06
+    },
+    {
+        "Asociación": "AMPA GABRIEL Y GALAN",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "EXCURSIONES",
+                "Importe": 1151.51
+            },
+            {
+                "Actividad Subvencionada ": "HUERTO ESCOLAR",
+                "Importe": 80.0
+            },
+            {
+                "Actividad Subvencionada ": "CUENTACUENTOS",
+                "Importe": 200.0
+            },
+            {
+                "Actividad Subvencionada ": "TALLER NAVIDEÑO",
+                "Importe": 120.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA FIN DE CURSO",
+                "Importe": 480.0
+            },
+            {
+                "Actividad Subvencionada ": "PERIODICO",
+                "Importe": 160.0
+            },
+            {
+                "Actividad Subvencionada ": "CARNAVAL",
+                "Importe": 350.0
+            },
+            {
+                "Actividad Subvencionada ": "SAN ISIDRO",
+                "Importe": 200.0
+            }
+        ],
+        "Gasto": 2741.51
+    },
+    {
+        "Asociación": "AMPA LUIS BUÑUEL",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "CONCURSO FELICITACIONES DE NAVIDAD",
+                "Importe": 90.0
+            },
+            {
+                "Actividad Subvencionada ": "MERCADILLO NAVIDEÑO",
+                "Importe": 90.0
+            },
+            {
+                "Actividad Subvencionada ": "GRADUACION",
+                "Importe": 440.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA FIN DE CURSO",
+                "Importe": 55.0
+            },
+            {
+                "Actividad Subvencionada ": "PARTICIPACION FAPA ALCOBENDAS Y FAPA GINER DE LOS RIOS",
+                "Importe": 227.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA NAVIDAD",
+                "Importe": 625.0
+            },
+            {
+                "Actividad Subvencionada ": "SAN ISIDRO",
+                "Importe": 200.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA DE HALLOWEEN",
+                "Importe": 80.0
+            },
+            {
+                "Actividad Subvencionada ": "CASTAÑADA",
+                "Importe": 65.0
+            },
+            {
+                "Actividad Subvencionada ": "CARNAVAL EN LAS AULAS: MERCADILLO MEDIEVAL",
+                "Importe": 209.0
+            }
+        ],
+        "Gasto": 2081.0
+    },
+    {
+        "Asociación": "AMPA MIGUEL HERNANDEZ",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "CERTAMEN LITERARIO Y DE DIBUJO",
+                "Importe": 300.0
+            },
+            {
+                "Actividad Subvencionada ": "SEMANA CULTURAL",
+                "Importe": 153.0
+            },
+            {
+                "Actividad Subvencionada ": "EXCURSION A MADRID",
+                "Importe": 504.0
+            },
+            {
+                "Actividad Subvencionada ": "EXCURSION A SIERRA DE GUADARRAMA",
+                "Importe": 293.0
+            },
+            {
+                "Actividad Subvencionada ": "CONCURSO DE TARJETAS NAVIDEÑAS",
+                "Importe": 150.0
+            },
+            {
+                "Actividad Subvencionada ": "PARTICIPACION FESTIVAL FAPA",
+                "Importe": 12.0
+            },
+            {
+                "Actividad Subvencionada ": "FESTIVAL FIN CURSO",
+                "Importe": 287.0
+            },
+            {
+                "Actividad Subvencionada ": "ENTREGA DE ORLAS 3º INFANTIL",
+                "Importe": 100.0
+            },
+            {
+                "Actividad Subvencionada ": "PARTICIPACION EN FEDERACIONES",
+                "Importe": 80.0
+            },
+            {
+                "Actividad Subvencionada ": "VISITA REYES MAGOS",
+                "Importe": 530.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA NAVIDAD",
+                "Importe": 475.0
+            },
+            {
+                "Actividad Subvencionada ": "TORNEOS DEPORTIVOS",
+                "Importe": 39.35
+            }
+        ],
+        "Gasto": 2923.35
+    },
+    {
+        "Asociación": "AMPA MIRAFLORES",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "SALIDA CULTURAL SAFARI",
+                "Importe": 1500.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA FIN DE CURSO",
+                "Importe": 560.0
+            },
+            {
+                "Actividad Subvencionada ": "CUENTOS EN MIRAFLORES",
+                "Importe": 400.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA DE NAVIDAD",
+                "Importe": 327.21
+            }
+        ],
+        "Gasto": 2787.21
+    },
+    {
+        "Asociación": "AMPA PARQUE CATALUÑA",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "CONCURSO DE TARJETAS NAVIDEÑAS",
+                "Importe": 290.0
+            },
+            {
+                "Actividad Subvencionada ": "FUTBOL",
+                "Importe": 95.0
+            },
+            {
+                "Actividad Subvencionada ": "MULTIDEPORTE",
+                "Importe": 400.0
+            },
+            {
+                "Actividad Subvencionada ": "GRADUACIÓN",
+                "Importe": 130.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA FIN DE CURSO",
+                "Importe": 995.0
+            },
+            {
+                "Actividad Subvencionada ": "PARTICIPACIÓN FAPA",
+                "Importe": 64.0
+            },
+            {
+                "Actividad Subvencionada ": "NAVIDAD",
+                "Importe": 455.0
+            },
+            {
+                "Actividad Subvencionada ": "DIA DEL LIBRO",
+                "Importe": 175.44
+            }
+        ],
+        "Gasto": 2604.44
+    },
+    {
+        "Asociación": "AMPA PROFESOR TIERNO GALVÁN",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "FIESTA FIN DE CURSO",
+                "Importe": 300.0
+            },
+            {
+                "Actividad Subvencionada ": "FAPA",
+                "Importe": 80.0
+            },
+            {
+                "Actividad Subvencionada ": "DIA DEL LIBRO",
+                "Importe": 306.0
+            },
+            {
+                "Actividad Subvencionada ": "DIA DE SAN ISIDRO",
+                "Importe": 100.0
+            },
+            {
+                "Actividad Subvencionada ": "CONCURSO DE CHRISTMAS",
+                "Importe": 250.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA NAVIDAD",
+                "Importe": 250.0
+            }
+        ],
+        "Gasto": 1286.0
+    },
+    {
+        "Asociación": "AMPA SEIS DE DICIEMBRE",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "EXCURSION GRANJA TALAMANCA",
+                "Importe": 476.0
+            },
+            {
+                "Actividad Subvencionada ": "NAVIDAD",
+                "Importe": 320.0
+            },
+            {
+                "Actividad Subvencionada ": "CUENTACUENTOS AMBIENTALES",
+                "Importe": 280.0
+            },
+            {
+                "Actividad Subvencionada ": "FIN DE CURSO",
+                "Importe": 256.0
+            },
+            {
+                "Actividad Subvencionada ": "FESTIVAL FIN DE CURSO",
+                "Importe": 100.0
+            },
+            {
+                "Actividad Subvencionada ": "AGENDA ESCOLAR",
+                "Importe": 518.0
+            }
+        ],
+        "Gasto": 1950.0
+    },
+    {
+        "Asociación": "AMPA VALDEPALITOS",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "VISITA MUSEO DEL VIDRIO",
+                "Importe": 385.5
+            },
+            {
+                "Actividad Subvencionada ": "SALIDAS CULTURALES EN FAMILIA",
+                "Importe": 490.0
+            },
+            {
+                "Actividad Subvencionada ": "TALLER EXTRAESCOLAR DISFRACES",
+                "Importe": 190.0
+            },
+            {
+                "Actividad Subvencionada ": "TALLER EXTRAESCOLAR DANZA ESPAÑOLA",
+                "Importe": 190.0
+            },
+            {
+                "Actividad Subvencionada ": "TALLER EXTRAESCOLAR DANZA MODERNA",
+                "Importe": 90.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA FIN DE CURSO",
+                "Importe": 690.0
+            },
+            {
+                "Actividad Subvencionada ": "FESTIVAL DANZA Y TEATRO",
+                "Importe": 210.0
+            },
+            {
+                "Actividad Subvencionada ": "CEREMONIA GRADUACION 6º PRIMARIA",
+                "Importe": 170.0
+            },
+            {
+                "Actividad Subvencionada ": "ORLA PARA 6º PRIMARIA",
+                "Importe": 110.0
+            },
+            {
+                "Actividad Subvencionada ": "CEREMONIA GRADUACION INFANTIL",
+                "Importe": 180.0
+            },
+            {
+                "Actividad Subvencionada ": "BOLETIN APA",
+                "Importe": 260.0
+            },
+            {
+                "Actividad Subvencionada ": "PARTICIPACION FAPA ALCOBENDAS",
+                "Importe": 64.0
+            },
+            {
+                "Actividad Subvencionada ": "PARTICIPACION FESTIVAL FAPA",
+                "Importe": 260.0
+            },
+            {
+                "Actividad Subvencionada ": "PARTICIPACION FAPA GINER DE LOS RIOS",
+                "Importe": 160.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA DE NAVIDAD",
+                "Importe": 180.0
+            },
+            {
+                "Actividad Subvencionada ": "TORNEO MULTIDEPORTE",
+                "Importe": 120.0
+            },
+            {
+                "Actividad Subvencionada ": "SEMANA CULTURAL",
+                "Importe": 180.0
+            }
+        ],
+        "Gasto": 3929.5
+    },
+    {
+        "Asociación": "AMPA LA CHOPERA",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "SEMANA DEL LIBRO",
+                "Importe": 990.0
+            },
+            {
+                "Actividad Subvencionada ": "TALLER DE MUSICA",
+                "Importe": 120.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA GRADUACION",
+                "Importe": 320.0
+            }
+        ],
+        "Gasto": 1430.0
+    },
+    {
+        "Asociación": "AMPA EL CUQUILLO",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "SEMANA DEL LIBRO",
+                "Importe": 610.0
+            },
+            {
+                "Actividad Subvencionada ": "DIA DE LA INFANCIA",
+                "Importe": 150.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA FIN DE CURSO Y GRADUACION",
+                "Importe": 368.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA NAVIDAD",
+                "Importe": 379.83
+            }
+        ],
+        "Gasto": 1507.83
+    },
+    {
+        "Asociación": "AMPA VALDELAPARRA",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "SEMANA DEL LIBRO Y FERIA DEL LIBRO",
+                "Importe": 685.0
+            },
+            {
+                "Actividad Subvencionada ": "EL HUERTO",
+                "Importe": 70.0
+            },
+            {
+                "Actividad Subvencionada ": "TALLER DEL NIDO",
+                "Importe": 95.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA GRADUACION",
+                "Importe": 670.0
+            },
+            {
+                "Actividad Subvencionada ": "QUERIDOS REYES MAGOS",
+                "Importe": 590.0
+            },
+            {
+                "Actividad Subvencionada ": "FERIA DE LAS ASOCIACIONES",
+                "Importe": 150.0
+            },
+            {
+                "Actividad Subvencionada ": "SAN ISIDRO",
+                "Importe": 205.0
+            }
+        ],
+        "Gasto": 2465.0
+    },
+    {
+        "Asociación": "AMPA RIVENDEL",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "DIA DE LA PAZ",
+                "Importe": 230.0
+            },
+            {
+                "Actividad Subvencionada ": "SEMANA CULTURAL Y DIA DEL LIBRO",
+                "Importe": 794.0
+            },
+            {
+                "Actividad Subvencionada ": "VISITA GRANJA ESCUELA",
+                "Importe": 115.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA FIN DE CURSO",
+                "Importe": 700.0
+            },
+            {
+                "Actividad Subvencionada ": "PERTENENCIA A LA FAPA",
+                "Importe": 64.0
+            },
+            {
+                "Actividad Subvencionada ": "CARNAVAL",
+                "Importe": 157.0
+            },
+            {
+                "Actividad Subvencionada ": "BELEN NAVIDEÑO",
+                "Importe": 40.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA DE NAVIDAD",
+                "Importe": 100.0
+            }
+        ],
+        "Gasto": 2200.0
+    },
+    {
+        "Asociación": "AMPA AGORA",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "PREMIOS AL RENDIMIENTO, SUPERACIÓN Y CONVICENCIA",
+                "Importe": 501.67
+            },
+            {
+                "Actividad Subvencionada ": "ANIMACION A LA LECTURA",
+                "Importe": 560.0
+            },
+            {
+                "Actividad Subvencionada ": "SALIDA AL TEATRO",
+                "Importe": 240.0
+            },
+            {
+                "Actividad Subvencionada ": "EXCURSION CULTURAL VISITA CORRALAS DE MADRID",
+                "Importe": 120.0
+            },
+            {
+                "Actividad Subvencionada ": "CONCURSO FOTOGRAFICO CONSTITUCION",
+                "Importe": 160.0
+            },
+            {
+                "Actividad Subvencionada ": "ACTO DE GRADUACIÓN",
+                "Importe": 300.0
+            },
+            {
+                "Actividad Subvencionada ": "INTERCAMBIO DE LIBROS DE TEXTO",
+                "Importe": 80.0
+            },
+            {
+                "Actividad Subvencionada ": "JORNADA DE CONVIVENCIA",
+                "Importe": 250.0
+            },
+            {
+                "Actividad Subvencionada ": "MILLA ESCOLAR",
+                "Importe": 210.0
+            }
+        ],
+        "Gasto": 2421.67
+    },
+    {
+        "Asociación": "AMPA ALDEBARAN",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "PREMIOS AL RENDIMIENTO, SUPERACIÓN Y CONVIVENCIA",
+                "Importe": 980.05
+            },
+            {
+                "Actividad Subvencionada ": "ANIMACION A LA LECTURA",
+                "Importe": 302.0
+            },
+            {
+                "Actividad Subvencionada ": "PRACTICANDO IDIOMAS",
+                "Importe": 278.0
+            },
+            {
+                "Actividad Subvencionada ": "CONCURSO DE TARJETAS NAVIDEÑAS",
+                "Importe": 190.0
+            },
+            {
+                "Actividad Subvencionada ": "GRADUACION ALUMNOS BACHILLER",
+                "Importe": 220.0
+            },
+            {
+                "Actividad Subvencionada ": "BOLETIN INFORMATIVO",
+                "Importe": 587.0
+            },
+            {
+                "Actividad Subvencionada ": "PARTICIPACION EN FAPAS",
+                "Importe": 260.0
+            },
+            {
+                "Actividad Subvencionada ": "TALLER CHAPAS E IMANES",
+                "Importe": 290.0
+            }
+        ],
+        "Gasto": 3107.05
+    },
+    {
+        "Asociación": "AMPA GINER DE LOS RIOS",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "CERTAMEN TARJETA NAVIDAD",
+                "Importe": 673.0
+            },
+            {
+                "Actividad Subvencionada ": "CERTAMEN DE RELATO Y POESIA",
+                "Importe": 320.0
+            },
+            {
+                "Actividad Subvencionada ": "CERTAMEN RECREANDO EL JARDIN DEL GINER",
+                "Importe": 160.0
+            },
+            {
+                "Actividad Subvencionada ": "CERTAMEN ENSAYO FILOSOFICO RAQUEL PUSZKIN",
+                "Importe": 120.0
+            },
+            {
+                "Actividad Subvencionada ": "CEREMONIA GRADUACION BACHILLERATO",
+                "Importe": 270.0
+            },
+            {
+                "Actividad Subvencionada ": "LIBRO DE RELATO Y POESIAS LA PLUMA LITERARIA",
+                "Importe": 290.0
+            },
+            {
+                "Actividad Subvencionada ": "PARTICIPACION FAPA ALCOBENDAS Y FAPA MADRID",
+                "Importe": 225.0
+            }
+        ],
+        "Gasto": 2058.0
+    },
+    {
+        "Asociación": "AMPA SEVERO OCHOA",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "TALLER DE MOTIVACION Y AUTOESTIMA",
+                "Importe": 981.97
+            },
+            {
+                "Actividad Subvencionada ": "TALLER DE TECNICAS DE ESTUDIO",
+                "Importe": 600.0
+            },
+            {
+                "Actividad Subvencionada ": "CONFERENCIA COLOQUIO SOBRE PREVENCION DEL FRACASO ESCOLAR",
+                "Importe": 450.0
+            },
+            {
+                "Actividad Subvencionada ": "EXPOSICION Y EDICION ALBUM FOTOGRAFICO INTERCAMBIO EEUU",
+                "Importe": 340.0
+            },
+            {
+                "Actividad Subvencionada ": "EXCURSION FIN DE CURO A PARQUE ECO-AVENTURA",
+                "Importe": 480.0
+            },
+            {
+                "Actividad Subvencionada ": "GRADUACION CICLOS Y BACHILLERATOS",
+                "Importe": 240.0
+            },
+            {
+                "Actividad Subvencionada ": "FERIA DE ASOCIACIONES DE ALCOBENDAS",
+                "Importe": 40.0
+            },
+            {
+                "Actividad Subvencionada ": "PERTENENCIA A FAPA ALCOBENDAS",
+                "Importe": 64.0
+            },
+            {
+                "Actividad Subvencionada ": "TORNEO DE AJEDREZ",
+                "Importe": 48.0
+            },
+            {
+                "Actividad Subvencionada ": "FIESTA DE NAVIDAD",
+                "Importe": 320.0
+            }
+        ],
+        "Gasto": 3563.9700000000003
+    },
+    {
+        "Asociación": "AMPA VIRGEN DE LA PAZ",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "JORNADA LUDICO DEPORTIVA FIN DE CURSO",
+                "Importe": 927.45
+            },
+            {
+                "Actividad Subvencionada ": "PARTICIPACION FAPA ALCOBENDAS Y GINER DE LOS RIOS",
+                "Importe": 176.0
+            },
+            {
+                "Actividad Subvencionada ": "ACTO DE GRADUACIÓN",
+                "Importe": 121.0
+            },
+            {
+                "Actividad Subvencionada ": "PARTICIPACION EN FERIA DE LAS ASOCIACIONES",
+                "Importe": 40.0
+            },
+            {
+                "Actividad Subvencionada ": "TORNEO DEPORTIVO FUTBOL SALA",
+                "Importe": 152.0
+            }
+        ],
+        "Gasto": 1416.45
+    },
+    {
+        "Asociación": "AMPA JUAN XXIII",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "TALLER DE MANUALIDADES",
+                "Importe": 800.0
+            },
+            {
+                "Actividad Subvencionada ": "TALLER DE JUEGOS DIDACTICOS",
+                "Importe": 448.0
+            },
+            {
+                "Actividad Subvencionada ": "TALLER DE MAGIA",
+                "Importe": 533.98
+            }
+        ],
+        "Gasto": 1781.98
+    },
+    {
+        "Asociación": "AMPA SAN ANTONIO",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "GRANJA ESCUELA",
+                "Importe": 895.0
+            },
+            {
+                "Actividad Subvencionada ": "VISITA AL PARQUE DE AVENTURAS AMAZONIA",
+                "Importe": 576.0
+            },
+            {
+                "Actividad Subvencionada ": "ASISTENCIA AL CIRCO MUNDIAL",
+                "Importe": 630.83
+            }
+        ],
+        "Gasto": 2101.83
+    },
+    {
+        "Asociación": "AMPA PADRE  MANYANET",
+        "Actividades": [
+            {
+                "Actividad Subvencionada ": "FERIA DE LA SEMANA CULTURAL",
+                "Importe": 800.0
+            },
+            {
+                "Actividad Subvencionada ": "BIBLIOTECA DE EDUCACION PRIMARIA DE LA APA",
+                "Importe": 803.82
+            },
+            {
+                "Actividad Subvencionada ": "FERIA DE ROBOTICA",
+                "Importe": 720.0
+            },
+            {
+                "Actividad Subvencionada ": "LUDOTECA FIESTA FIN DE CURSO",
+                "Importe": 372.0
+            }
+        ],
+        "Gasto": 2695.82
+    },
+    {
+        "Asociación": "AMPA FAPA"
+    }
+]
